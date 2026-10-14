@@ -15,7 +15,7 @@ The original implementation was written in MATLAB. An interactive web visualizat
 
 ## Interactive Demo
 
-**Live demo:** [Open the robotic arm simulation](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/)
+**Live demo:** [Open the robotic arm simulation](https://kelvincreighton.ca/projects/engineering/robotic-arm-simulation/)
 
 The visualization is designed to let users select a target position and observe the arm's configuration as the inverse kinematics algorithm attempts to reach it.
 
